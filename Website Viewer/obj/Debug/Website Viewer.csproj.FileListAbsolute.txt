@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\Website Viewer\Website Viewer\bin\Debug\Website Viewer.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Website Viewer\Website Viewer\bin\Debug\Website Viewer.exe
+c:\users\admin\documents\visual studio 2013\Projects\Website Viewer\Website Viewer\bin\Debug\Website Viewer.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Website Viewer\Website Viewer\obj\Debug\Website_Viewer.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Website Viewer\Website Viewer\obj\Debug\Website Viewer.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Website Viewer\Website Viewer\obj\Debug\Website Viewer.exe
+c:\users\admin\documents\visual studio 2013\Projects\Website Viewer\Website Viewer\obj\Debug\Website Viewer.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Website Viewer\Website Viewer\obj\Debug\Website_Viewer.Form1.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\Website Viewer\Website Viewer\obj\Debug\Website_Viewer.Form2.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\Website Viewer\Website Viewer\obj\Debug\Website Viewer.csprojResolveAssemblyReference.cache
